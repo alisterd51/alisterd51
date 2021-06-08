@@ -1,4 +1,8 @@
-### Hi there 👋
+<!--[LANGUAGE FAVORIS]-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/c/c-original.svg" alt="c" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bash/bash-original.svg" alt="bash" width="60" height="60" />
+</p>
 
 ![Les Stats GitHub de Alisterd51](https://github-readme-stats.vercel.app/api?username=alisterd51&show_icons=true&theme=radical)
 
