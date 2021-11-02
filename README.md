@@ -20,9 +20,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bash/bash-original.svg" alt="bash" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/vim/vim-original.svg" alt="vim" width="60" height="60" />
 </p>
-
-![Les Stats GitHub de Alisterd51](https://github-readme-stats.vercel.app/api?username=alisterd51&show_icons=true&theme=radical)
-
+<p align="left">
+  ![Les Stats GitHub de Alisterd51](https://github-readme-stats.vercel.app/api?username=alisterd51&show_icons=true&theme=radical)
+</p>
+<p align="left">
+  <img src="https://badge42.herokuapp.com/api/stats/anclarma?privacyName=true&privacyEmail=true">
+</p>
 <!--
 **alisterd51/alisterd51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
