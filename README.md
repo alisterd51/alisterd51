@@ -25,7 +25,7 @@
 ![Les Stats GitHub de Alisterd51](https://github-readme-stats.vercel.app/api?username=alisterd51&show_icons=true&theme=radical)
 
 <p align="left">
-  <img src="https://badge42.herokuapp.com/api/stats/anclarma?privacyName=true&privacyEmail=true">
+  <img src="https://badge42.vercel.app/api/v2/cl2jlfmda000609jtiwp4ud2y/stats?cursusId=21&coalitionId=45">
 </p>
 <!--
 **alisterd51/alisterd51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
