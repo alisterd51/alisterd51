@@ -15,13 +15,6 @@ Je travaille sur l'infrastructure et l'automatisation, tout en développant des 
 
 ---
 
-### Compétences Techniques
-
-* **Langages :** Rust, C, Python, Go, Bash
-* **Infrastructure & Outils :** Kubernetes, VSCode
-
----
-
 ### Contact
 
 Ouvert aux échanges sur des sujets techniques (Rust / DevOps).
