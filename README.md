@@ -1,43 +1,30 @@
-<!-- *********************************************************************** -->
-<!--                                                                         -->
-<!--                                                      :::      ::::::::  -->
-<!-- README.md                                          :+:      :+:    :+:  -->
-<!--                                                  +:+ +:+         +:+    -->
-<!-- By: anclarma <marvin@42.fr>                    +#+  +:+       +#+       -->
-<!--                                              +#+#+#+#+#+   +#+          -->
-<!-- Created: 2021/06/09 14:11:03 by anclarma          #+#    #+#            -->
-<!-- Updated: 2021/06/09 14:11:03 by anclarma         ###   ########.fr      -->
-<!--                                                                         -->
-<!-- *********************************************************************** -->
+### Alisterd51
 
-<!--[LANGUAGE FAVORIS]-->
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/c/c-original.svg" alt="c" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/ruby/ruby-original.svg" alt="ruby" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" alt="html" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original.svg" alt="css" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bash/bash-original.svg" alt="bash" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/vim/vim-original.svg" alt="vim" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/docker/docker-original.svg" alt="docker" width="60" height="60" />
-</p>
+**Platform Engineer** chez [Wiremind](https://www.wiremind.io/) | **Rust Developer**
 
-![Les Stats GitHub de Alisterd51](https://github-readme-stats.vercel.app/api?username=alisterd51&show_icons=true&theme=radical)
+> DevOps de jour, développeur Rust de nuit.
 
-[![anclarma's 42 stats](https://badge42.vercel.app/api/v2/cl2jlfmda000609jtiwp4ud2y/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42)
+Je travaille sur l'infrastructure et l'automatisation, tout en développant des projets fullstack en Rust.
 
-<!--
-**alisterd51/alisterd51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Compétences Techniques
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Langages :** Rust, C, Python, Go, Bash
+* **Infrastructure & Outils :** Kubernetes, VSCode
+
+---
+
+### Compétences Techniques
+
+* **Langages :** Rust, C, Python, Go, Bash
+* **Infrastructure & Outils :** Kubernetes, VSCode
+
+---
+
+### Contact
+
+Ouvert aux échanges sur des sujets techniques (Rust / DevOps).
+
+* 📧 **Email :** [antoinereims28@gmail.com](antoinereims28@gmail.com)
+* 💬 **Discord (42 Paris) :** anclarma
