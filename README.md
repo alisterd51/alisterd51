@@ -19,5 +19,5 @@ Je travaille sur l'infrastructure et l'automatisation, tout en développant des 
 
 Ouvert aux échanges sur des sujets techniques (Rust / DevOps).
 
-* 📧 **Email :** [antoinereims28@gmail.com](antoinereims28@gmail.com)
+* 📧 **Email :** [antoinereims28@gmail.com](mailto:antoinereims28@gmail.com)
 * 💬 **Discord (42 Paris) :** anclarma
