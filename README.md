@@ -30,3 +30,4 @@ Ouvert aux échanges sur des sujets techniques (Rust / DevOps).
 | :--- | :--- |
 | [Rusty Kingdom](https://github.com/alisterd51/rusty-kingdom) | [![Nightly](https://github.com/alisterd51/rusty-kingdom/actions/workflows/nightly.yaml/badge.svg)](https://github.com/alisterd51/rusty-kingdom/actions/workflows/nightly.yaml) |
 | [GratOS](https://github.com/alisterd51/gratOS) | [![Nightly](https://github.com/alisterd51/gratOS/actions/workflows/nightly-release.yaml/badge.svg)](https://github.com/alisterd51/gratOS/actions/workflows/nightly-release.yaml) |
+| [Checker Rush01 (42)](https://github.com/alisterd51/checker_rush01) | [![Nightly](https://github.com/alisterd51/checker_rush01/actions/workflows/nightly.yaml/badge.svg)](https://github.com/alisterd51/checker_rush01/actions/workflows/nightly.yaml) |
