@@ -1,6 +1,6 @@
 ### Alisterd51
 
-**Platform Engineer** chez [Wiremind](https://www.wiremind.io/) | **Rust Developer**
+**Platform Engineer** | **Rust Developer**
 
 > DevOps de jour, développeur Rust de nuit.
 
@@ -11,7 +11,6 @@ Je travaille sur l'infrastructure et l'automatisation, tout en développant des 
 ### Compétences Techniques
 
 * **Langages :** Rust, C, Python, Go, Bash
-* **Infrastructure & Outils :** Kubernetes, VSCode
 
 ---
 
